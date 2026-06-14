@@ -9,7 +9,7 @@
             "buffer_status": "Advancing",
             "lane": 1,
             "map": "T0",
-            "load": false,
+            "load": true,
             "prep": false,
             "tool_loaded": false,
             "loaded_to_hub": false,
